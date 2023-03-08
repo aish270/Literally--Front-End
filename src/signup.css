@@ -1,0 +1,53 @@
+.header-imagesig {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7J1fJRIXKOwUbBO670QJKtpn3VmMk0oXlWSvaUZkKsw1-WVWiZ0C9oKGGA2oPEuAjeuo&usqp=CAU');
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+    }
+    .htextsig{
+      
+      font-size: 70px;
+          padding: 50px 0;
+        color: rgb(253, 254, 255);
+        text-align: center;
+      
+    }
+    .boxsig{
+  
+      
+      width:800px;
+      height:800px;
+      border-radius: 40px;
+      margin-top: 180px;
+      margin-left: 530px;
+    }
+    .labl{
+      font-size: 40px;
+     
+      color: black;
+      display: inline-block;
+          width: 150px;
+          text-align: right;
+          padding: 30px;
+    }
+    .inp{
+      border-radius: 20px;
+      height: 40px;
+      width: 400px;
+     
+      font-size: 30px;
+      padding: 10px;
+    }
+    input[type=submit]{
+      height: 50px;
+      width:300px;
+      padding: 10px;
+      background-color: green;
+      margin-top: 60px;
+      font-size: 20px;
+      border-radius: 30px;
+      
+    }
